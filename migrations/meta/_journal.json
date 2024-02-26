@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704840722792,
+      "tag": "0000_awesome_goblin_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704841499195,
+      "tag": "0001_grey_meteorite",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1705268559119,
+      "tag": "0002_oval_vulcan",
+      "breakpoints": true
+    }
+  ]
+}
